@@ -1,0 +1,8 @@
+print('Hello World')
+print('Feature A:')
+print('Feature B:')
+print('Feature C added')
+print('Feature D added')
+print('Feature E added')
+print('All features complete')
+print("Testing stash workflow")

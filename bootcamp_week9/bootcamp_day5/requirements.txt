@@ -1,0 +1,11 @@
+autogen-agentchat>=0.4.0
+autogen-ext[openai]>=0.4.0
+autogen-core>=0.4.0
+groq>=0.15.0
+google-genai>=1.0.0
+openai>=1.50.0
+python-dotenv>=1.0.1
+aiohttp>=3.10.0
+asyncio>=3.4.3
+pandas>=2.2.0
+numpy>=1.26.0

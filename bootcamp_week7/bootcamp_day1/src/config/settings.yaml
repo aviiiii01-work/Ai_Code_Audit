@@ -1,0 +1,19 @@
+project_name: enterprise_local_rag
+environment: local
+
+data_paths:
+  raw: src/data/raw
+  cleaned: src/data/cleaned
+  chunks: src/data/chunks
+  embeddings: src/data/embeddings
+  vectorstore: src/data/vectorstore
+
+chunking:
+  chunk_size: 700
+  chunk_overlap: 100
+
+retrieval:
+  top_k: 5
+
+logging:
+  level: INFO

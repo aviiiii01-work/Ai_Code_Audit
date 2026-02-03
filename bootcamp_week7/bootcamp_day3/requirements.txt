@@ -1,0 +1,11 @@
+python-dotenv
+tqdm
+numpy
+pandas
+sentence-transformers
+transformers
+torch
+faiss-cpu
+pypdf
+python-docx
+scikit-learn

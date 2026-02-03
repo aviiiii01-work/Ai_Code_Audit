@@ -1,0 +1,4 @@
+embedding_model:
+  name: BAAI/bge-small-en
+  device: cpu
+  normalize: true

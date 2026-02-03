@@ -1,0 +1,9 @@
+autogen-agentchat>=0.4.0
+autogen-ext[openai]>=0.4.0
+faiss-cpu>=1.7.4
+aiosqlite>=0.20.0
+sqlalchemy>=2.0.0
+sentence-transformers>=3.0.0
+numpy<2.0.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0

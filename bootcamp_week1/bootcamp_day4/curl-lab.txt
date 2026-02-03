@@ -1,0 +1,95 @@
+========================
+CURL NETWORKING LAB
+========================
+Author: Ravi Pratap Singh
+Date: November 7, 2025
+Environment: Ubuntu (VS Code Terminal)
+Node Version: v24.11.0
+cURL Version: 8.5.0
+========================
+
+
+1️⃣ DNS Lookup
+------------------------
+Command:
+nslookup dummyjson.com
+
+Output:
+Server:         127.0.0.53
+Address:        127.0.0.53#53
+
+Non-authoritative answer:
+Name:   dummyjson.com
+Address: 172.67.205.42
+Name:   dummyjson.com
+Address: 104.21.61.23
+Name:   dummyjson.com
+Address: 2606:4700:3033::6815:3d17
+Name:   dummyjson.com
+Address: 2606:4700:3031::ac43:cd2a
+
+
+2️⃣ Traceroute
+------------------------
+Command:
+traceroute dummyjson.com
+
+Output:
+traceroute to dummyjson.com (104.21.61.23), 30 hops max, 60 byte packets
+ 1  _gateway (10.251.189.237)  16.706 ms  17.361 ms  17.379 ms
+ 2  192.168.29.10 (192.168.29.10)  178.752 ms  178.775 ms  178.759 ms
+ 3  * * *
+ 4  192.168.31.23 (192.168.31.23)  79.015 ms  78.781 ms  78.839 ms
+ 5  * * *
+ 6  10.188.115.210 (10.188.115.210)  159.672 ms * 10.188.115.208 (10.188.115.208)  35.551 ms
+ 7  125.20.103.237 (125.20.103.237)  31.702 ms 61.95.165.73 (61.95.165.73)  31.777 ms 125.20.103.237 (125.20.103.237)  39.878 ms
+ 8  * 116.119.61.204 (116.119.61.204)  158.356 ms *
+ 9  162.158.20.18 (162.158.20.18)  381.232 ms  377.276 ms  373.038 ms
+10  162.158.20.240 (162.158.20.240)  337.871 ms  338.630 ms 162.158.20.42 (162.158.20.42)  337.074 ms
+11  104.21.61.23 (104.21.61.23)  278.168 ms  288.175 ms  288.057 ms
+
+
+3️⃣ Pagination Test (Limit & Skip)
+-----------------------------------
+Command:
+curl -v https://dummyjson.com/products?limit=5&skip=10
+
+Key Output Summary:
+* Connected to dummyjson.com via IPv6 (2606:4700:3031::ac43:cd2a)
+* SSL connection established using TLSv1.3
+* HTTP/2 protocol in use
+* Server: Cloudflare
+* Response Code: 200 OK
+* x-ratelimit-limit: 100
+* etag: W/"1cf6-vKLgOnINYP3dn8/IH5KH5MkT1tI"
+* cf-cache-status: DYNAMIC
+* Response contains JSON data of 5 products
+
+
+4️⃣ ETag and Caching Test
+----------------------------
+Command:
+curl -i https://dummyjson.com/products/1
+
+Output (Headers):
+HTTP/2 200 
+date: Fri, 07 Nov 2025 09:19:36 GMT
+content-type: application/json; charset=utf-8
+server: cloudflare
+x-ratelimit-limit: 100
+x-ratelimit-remaining: 99
+x-ratelimit-reset: 1759755440
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=15552000; includeSubDomains
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+access-control-allow-origin: *
+etag: W/"5e6-bX+IgjHKZz+TflDmEXfyyaBO9Hk"
+cf-cache-status: HIT
+
+Observation:
+→ ETag header confirms that the response can be cached and validated efficiently.
+→ “cf-cache-status: HIT” indicates Cloudflare served cached content.
+→ API response time is optimized through caching.
+
+

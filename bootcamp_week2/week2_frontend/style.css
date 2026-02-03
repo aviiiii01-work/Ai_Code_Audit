@@ -1,0 +1,163 @@
+/* basic page setup */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fff;
+  color: #222;
+}
+
+/* simple navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 40px;
+  border-bottom: 1px solid #ddd;
+}
+
+.logo {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.nav-links a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #555;
+  font-size: 15px;
+}
+
+.nav-links a:hover {
+  color: #000;
+}
+
+/* search & sort area */
+.controls {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px 0;
+}
+
+input, select {
+  padding: 10px 15px;
+  font-size: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* actual product grid */
+.product-grid {
+  width: 90%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 30px;
+  padding-bottom: 40px;
+} 
+
+/* individual cards */
+.product-card {
+  text-align: center;
+  position: relative;
+  border: #ccc solid 1px;
+  border-radius: 6px; 
+}
+
+.product-card img {
+  width: 30%;
+  border-radius: 5px;
+}
+
+/* tags: sale / new / out */
+.tag {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  padding: 6px 10px;
+  font-size: 12px;
+  color: #fff;
+  border-radius: 3px; 
+}
+
+.sale { background: #d9534f; }
+.new { background: #5cb85c; }
+.out { background: #333; }
+
+.product-title {
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.stars {
+  color: gold;
+  font-size: 14px;
+}
+
+.price {
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+/* responsive tweaks */
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+  }
+
+  .controls {
+    flex-direction: column;
+  }
+
+  .product-grid {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  }
+
+  .home-header h1 {
+    font-size: 26px;
+  }
+}
+
+@media (max-width: 480px) {
+  .product-grid {
+    grid-template-columns: 1fr;
+  }
+
+  input, select {
+    width: 90%;
+  }
+
+  .cta-button {
+    padding: 12px 25px;
+    font-size: 16px;
+  }
+}
+
+/* homepage hero section */
+.home-header {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background: linear-gradient(to bottom right, #222, #555);
+  color: #fff;
+  padding: 20px;
+}
+
+.home-header .cta-button {
+  margin-top: 20px;
+  text-decoration: none;
+  background: #fff;
+  color: #222;
+  padding: 15px 30px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.footer {
+  text-align: center;
+  padding: 15px;
+  background: #eee;
+  margin-top: 20px;
+}

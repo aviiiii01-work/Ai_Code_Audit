@@ -1,0 +1,193 @@
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-26T06:36:15.123Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-26T06:36:15.125Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-26T06:36:15.128Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-26T06:36:15.142Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-26T06:39:04.742Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-26T06:39:04.744Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-26T06:39:04.746Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-26T06:39:04.761Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:09:20.223Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:09:20.224Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:09:20.225Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:09:20.233Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:13:52.429Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:13:52.430Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:13:52.432Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:13:52.439Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:13:57.430Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:13:57.431Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:13:57.432Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:13:57.440Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:14:10.975Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:14:10.976Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:14:10.978Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:14:10.985Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:14:20.387Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:14:20.388Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:14:20.389Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:14:20.397Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:14:31.993Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:14:31.994Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:14:31.997Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:14:32.005Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:16:11.083Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:16:11.084Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:16:11.085Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:16:11.096Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:16:14.409Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:16:14.410Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:16:14.412Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:16:14.422Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:16:33.464Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:16:33.464Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:16:33.466Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:16:33.473Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:16:36.861Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:16:36.862Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:16:36.864Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:16:36.874Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:16:54.426Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:16:54.427Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:16:54.429Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:16:54.436Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:16:57.801Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:16:57.802Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:16:57.804Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:16:57.813Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:17:13.681Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:17:13.682Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:17:13.684Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:17:13.693Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:17:16.161Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:17:16.162Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:17:16.163Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:17:16.174Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:17:35.660Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:17:35.662Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:17:35.665Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:17:35.683Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:18:51.117Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:18:51.118Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:18:51.120Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:18:51.129Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:35:59.489Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:35:59.490Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:35:59.491Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:35:59.501Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:36:02.175Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:36:02.176Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:36:02.177Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:36:02.187Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T09:37:26.040Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T09:37:26.041Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T09:37:26.042Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T09:37:26.053Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-27T11:29:42.929Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-27T11:29:42.930Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-27T11:29:42.931Z"}
+{"level":"info","message":"✔ Database connected","timestamp":"2025-11-27T11:29:42.943Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T09:51:12.654Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T09:51:12.655Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T09:51:12.657Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T09:51:17.888Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T09:51:17.889Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T09:51:17.890Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T09:51:53.206Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T09:51:53.207Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T09:51:53.208Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T09:51:58.330Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T09:51:58.331Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T09:51:58.332Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T09:52:06.898Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T09:52:06.900Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T09:52:06.902Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T09:52:52.646Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T09:52:52.647Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T09:52:52.648Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:02:04.121Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:02:04.122Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:02:04.123Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:09:47.126Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:09:47.128Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:09:47.129Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:11:19.912Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:11:19.913Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:11:19.915Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:11:57.081Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:11:57.082Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:11:57.083Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:12:20.811Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:12:20.813Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:12:20.814Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:13:09.695Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:13:09.696Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:13:09.697Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:16:18.198Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:16:18.199Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:16:18.200Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:20:04.698Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:20:04.699Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:20:04.700Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:27:03.974Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:27:03.975Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:27:03.977Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:30:39.777Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:30:39.778Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:30:39.779Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:32:44.884Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:32:44.885Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:32:44.887Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:35:07.222Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:35:07.223Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:35:07.224Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:35:29.392Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:35:29.395Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:35:29.396Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:35:48.774Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:35:48.776Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:35:48.777Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:35:59.082Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:35:59.083Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:35:59.085Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:36:10.318Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:36:10.320Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:36:10.321Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:39:57.735Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:39:57.737Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:39:57.739Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:40:16.202Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:40:16.203Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:40:16.204Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:40:25.204Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:40:25.205Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:40:25.207Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:40:44.175Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:40:44.176Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:40:44.178Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:49:59.060Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:49:59.061Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:49:59.062Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:52:04.159Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:52:04.160Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:52:04.161Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:53:35.671Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:53:35.672Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:53:35.674Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:56:24.243Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:56:24.245Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:56:24.246Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:56:40.412Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:56:40.413Z"}
+{"level":"info","message":"🚀 Server started on port 5000","timestamp":"2025-11-28T10:56:40.414Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:58:52.132Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:58:52.133Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:59:18.394Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:59:18.395Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T10:59:43.836Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T10:59:43.837Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T11:01:45.702Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T11:01:45.703Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T11:02:58.929Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T11:02:58.930Z"}
+{"level":"info","message":"✔ Middlewares loaded","timestamp":"2025-11-28T11:04:07.972Z"}
+{"level":"info","message":"✔ Routes mounted","timestamp":"2025-11-28T11:04:07.973Z"}

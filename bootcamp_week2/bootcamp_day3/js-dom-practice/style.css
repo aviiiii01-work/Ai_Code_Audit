@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #e6e6e6; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.outer-box {
+  background-color: #dfeeff; 
+  padding: 50px;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.faq-container {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+  width: 400px;
+  overflow: hidden;
+}
+
+.faq {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.faq-header {
+  background-color: #243447;
+  color: white;
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.faq-header:hover {
+  background-color: #324a63;
+}
+
+.faq-content {
+  background-color: white;
+  color: #333;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease, padding 0.3s ease;
+  padding: 0 20px;
+}
+
+.faq.active .faq-content {
+  max-height: 200px;
+  padding: 15px 20px;
+}
+
+.icon {
+  font-size: 18px;
+  transition: transform 0.3s;
+  display: inline-block;
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Products</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- top bar -->
+  <nav class="navbar">
+    <h2 class="logo">NEW PRODUCT</h2>
+
+    <!-- simple category links (not functional, just UI for now) -->
+    <div class="nav-links">
+      <a href="#">All</a>
+      <a href="#">Women's</a>
+      <a href="#">Men's</a>
+      <a href="#">Kid's</a>
+      <a href="#">Accessories</a>
+      <a href="#">Cosmetics</a>
+    </div>
+  </nav>
+
+  <!-- search + sorting section -->
+  <div class="controls">
+    <input id="searchInput" type="text" placeholder="Search products...">
+    
+    <select id="sortSelect">
+      <option value="">Sort by Price</option>
+      <option value="high">High → Low</option>
+      <option value="low">Low → High</option>
+    </select>
+  </div>
+
+  <!-- products appended here -->
+  <div id="productGrid" class="product-grid"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+# bad: [bae6ac8] Commit 4: introduced a bug
+# good: [b6946d2] Commit 3: Feature B
+git bisect start
+git bisect bad bae6ac8
+git bisect good b6946d2
+# Bisecting: 2 revisions left to test after this (roughly 2 steps)
+# [0c9ed66] Commit 5: added Feature C
+git bisect good 0c9ed66
+# Bisecting: 0 revisions left to test after this (roughly 1 step)
+# [258c7ce] Commit 6: added Feature D
+git bisect good 258c7ce
+# first bad commit: [bae6ac8] Commit 4: introduced a bug

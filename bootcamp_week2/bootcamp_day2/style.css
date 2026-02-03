@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Center container */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+/* Main container */
+.container {
+  display: grid;
+  width: 60vw;
+  height: 70vh;
+  aspect-ratio: 6 / 7;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 1fr 3fr 1fr 1fr 1fr; /* preserves height proportion */
+  grid-template-areas:
+    "header menu menu menu"
+    "hero hero hero hero"
+    "main main blank image"
+    "main main blank extra"
+    "banner banner banner banner";
+  gap: 0.6vh;
+  background-color: white;
+  overflow: hidden;
+  padding: 0.5%;
+}
+
+/* Areas */
+.header {
+  grid-area: header;
+  background-color: #0b1b35;
+}
+
+.menu {
+  grid-area: menu;
+  background-color: #e94c4c;
+}
+
+.hero {
+  grid-area: hero;
+  background-color: #4a8edb;
+}
+
+.main {
+  grid-area: main;
+  background-color: #192f48;
+}
+
+.image {
+  grid-area: image;
+  background-color: #b4e0e3;
+  color: #000;
+}
+
+.blank {
+  grid-area: blank;
+  background-color: white;
+}
+
+.banner {
+  grid-area: banner;
+  background-color: #f6cd58;
+  color: #000;
+}
+
+.extra {
+  grid-area: extra;
+  background-color: #41b69c;
+}
+
+/* Responsive text + scaling */
+.container > * {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5vw;
+}
+
+/* Prevent distortion at extreme shrink sizes */
+@media (max-width: 600px) {
+  .container {
+    width: 85vw;
+    height: auto;
+    aspect-ratio: 6 / 7;
+  }
+
+  .container > * {
+    font-size: 3vw;
+  }
+}

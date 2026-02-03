@@ -1,0 +1,10 @@
+model,device,precision,tokens_per_sec,latency_sec,vram_mb,accuracy_notes
+base_model,cuda,fp16,99.18,0.06,1060.8,1.0
+base_model,cuda,fp16,101.16,0.06,1061.0,1.0
+base_model,cuda,fp16,13.51,5.18,1066.0,1.0
+finetuned_model,cuda,int8,5.66,14.67,1535.3,0.4446
+finetuned_model,cuda,int8,7.98,7.4,1535.3,0.8743
+finetuned_model,cuda,int8,6.25,14.57,1535.3,0.8275
+gguf_model,cpu,q4_0,11.14,0.72,NA,0.2342
+gguf_model,cpu,q4_0,10.15,0.59,NA,0.4541
+gguf_model,cpu,q4_0,16.98,3.18,NA,0.7657
